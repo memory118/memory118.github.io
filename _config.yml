@@ -1,11 +1,11 @@
 # Site settings
-title: Darren Blog
-SEOTitle: SWR的博客 | Darren Blog
+title: Alex Wu's Blog
+SEOTitle: 自由自在的博客 | Alex Wu's Blog
 header-img: img/home-bg-1.jpg
-email: songweiren_shu@163.com
-description: "关于程序与设计、深度学习 | 伟任，Web & Mobile Lover，Software Engineer，UX Designer | 这里是 @伟任 的个人博客，与你一起发现更大的世界。"
-keyword: "伟任, Darren伟任, Darren, @Darren, 伟任的博客, Darren Blog, 博客, 个人网站, 深度学习, 算法设计, JavaScript, 嵌入式"
-url: "https://www.sfnr.top"              # your host, for absolute URL
+email: memory.wu@outlook.com
+description: "关于程序与设计、深度学习 | 自由自在，Web & Mobile Lover，Software Engineer，UX Designer | 这里是 @自由自在 的个人博客，与你一起发现更大的世界。"
+keyword: "自由自在, AlexWu, @AlexWu, 自由自在的博客, Alex Wu's Blog, 博客, 个人网站, 深度学习, 算法设计, JavaScript, 嵌入式"
+url: "https://www.memorywu.cn"              # your host, for absolute URL
 baseurl: ""                             # for example, '/blog' if your blog hosted on 'host/blog'
 
 # Publish posts or collection documents with a future date.
@@ -13,13 +13,10 @@ future: true
 
 # SNS settings
 RSS: false
-weibo_username:     u/2465540232
-zhihu_username:    songweiren
-github_username:    DarrenSong
-csdn_username:      wujizhishang
-cnblog_username:    songweiren
-#twitter_username:   Darren
-#facebook_username:  Darren
+zhihu_username:     自由自在
+github_username:    memory118
+#twitter_username:   AlexWu
+#facebook_username:  AlexWu
 #linkedin_username:  firstname-lastname-idxxxx
 
 
