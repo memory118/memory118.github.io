@@ -14,8 +14,8 @@
 
 **工作历程**                                            
 
-* **2019.1-Present            Arm             Graphics Software Engineer**
-
+* **2021.1-Present**           **Arm**               **Senior Software Engineer**
+* **2019.1-2020.12            Arm              Graphics Software Engineer**
 * **2017.6-2018.12            Arm              Graduate Graphics Software Engineer**
 
 ---

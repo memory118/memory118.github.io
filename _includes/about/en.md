@@ -6,4 +6,4 @@
 #### **友情链接**
 - <a href="https://github.com/memory118" target="_blank">Github</a>
 - <a href="https://www.jianshu.com/u/64be9a76beac" target="_blank">简书</a>
-- <a href="http://memory118.github.io/AlexWU_Resume.html" target="_blank">个人简历</a>
+- <a href="http://memory118.github.io/AlexWu_Resume.html" target="_blank">个人简历</a>
