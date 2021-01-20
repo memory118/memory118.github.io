@@ -31,9 +31,8 @@ const PRECACHE_LIST = [
 ]
 const HOSTNAME_WHITELIST = [
   self.location.hostname,
-  "sfnr.top",
-  "songweiren.githu.io",
-  "songweiren.top"
+  "memorywu.cn",
+  "memory118.github.io"
 ]
 const DEPRECATED_CACHES = ['precache-v1', 'runtime', 'main-precache-v1', 'main-runtime']
 
