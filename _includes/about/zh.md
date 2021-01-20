@@ -1,10 +1,12 @@
-> 勿以恶小而为之，勿以善小而不为
+> 用更高的眼光认知这个世界，用更坚实的步伐走好每一步
 
 ![](/image/freedom.jpg)
 #### **简介**
-精通C语言，熟悉C++、C#和Matlab，Python等编程语言，熟悉CC、Git、SVN等版本控制软件及DOORS，CQ和Integrity等需求管理软件，也熟悉Windows和Unbutu下的的程序开发,熟练使用VS2013/Source Insight/CCS3.3/Keil5.0等IDE,熟悉MakeFile文件和CMake及Shell脚本。熟悉各种工业现场总线和通讯协议，如MIII、CANOpen,J1939及TCP/IP协议等。 略懂图像处理基础知识。
+17年硕士毕业后，开始步入社会，进入了一个崭新的行业--GPU，承蒙老板以及各位同事不离不弃，孜孜不倦的教导，让当初一个什么都不懂的我也对这个行业充满兴趣，很想做好这份工作。兴趣是最好的老师，如今三年半的时间已经过去，一直都在学习弥补基础知识的不足，毕竟一个外外行，不说没有GPU图形学的基础，连计算机的基础也没有，学习过程虽然辛苦，但是看到自己在进步，而且依旧能保持对这个领域的好奇心和激情，感觉也很快乐。既来之，则安之，要学习的东西还有太多太多，希望自己能静下心来，好好沉淀。能做自己喜欢的事情是幸运，要珍惜，要做好，要快乐！
+
+转眼间，走出学校已近4年，感谢这4年来的自己，虽然承受了很多的打击，遭遇过很多的挫折，也曾多次感叹自己的生活、迷茫自己的未来，但都未曾影响我始终有着一颗上进的心。未来的时间还很长，希望自己不忘初心，继续前行！
 
 #### **友情链接**
 - <a href="https://github.com/memory118" target="_blank">Github</a>
 - <a href="https://www.jianshu.com/u/64be9a76beac" target="_blank">简书</a>
-- <a href="http://memory118.github.io/AlexWu_Resume.html" target="_blank">个人简历</a>
+- <a href="https://memory118.github.io/AlexWu_Resume.html" target="_blank">个人简历</a>
