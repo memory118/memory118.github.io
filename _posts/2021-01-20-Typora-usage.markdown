@@ -108,7 +108,7 @@ Typora是一个很好的markdown编辑器，windows、Mac和Linux都可以安装
   ![figure](/img/freedom.jpg)
   ~~~
 
-  ![figure](http://github.com/memory118/memory118.github.io/blob/master/_posts/TyporaUsage/freedom.jpg)
+  ![figure](https://raw.githubusercontent.com/memory118/memory118.github.io/master/_posts/TyporaUsage/freedom.jpg)
 
 * 插入链接
 
@@ -289,7 +289,7 @@ Typora是一个很好的markdown编辑器，windows、Mac和Linux都可以安装
   ~~~
 
   <video id="video" controls="" preload="none">     
-      <source id="mp4" src="../videos/typora_usage.mp4" type="video/mp4"> 
+      <source id="mp4" src="https://raw.githubusercontent.com/memory118/memory118.github.io/master/_posts/TyporaUsage/typora_usage.mp4" type="video/mp4"> 
   </video>
 
 * 网络视频
