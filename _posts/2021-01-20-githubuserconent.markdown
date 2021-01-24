@@ -3,7 +3,7 @@ layout: post
 title:  "解决GitHub的raw.githubusercontent.com无法连接问题"
 date:   2021-01-20 21:26:52 +0800
 categories: github Linux
-tags: config
+tags: github
 ---
 # Linux/Mac
 直接在终端输入
