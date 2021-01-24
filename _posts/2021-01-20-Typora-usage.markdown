@@ -3,6 +3,7 @@ layout: post
 title: "Typora usage"
 date:  2021-01-20 17:34:52 +0800
 categories: tool
+tags: tool
 ---
 
 Typora是一个很好的markdown编辑器，windows、Mac和Linux都可以安装。个人认为Typora最大的好处就是支持及时渲染，语句输完，回车，解释器就立马给你呈现出来渲染结果，非常的方便。接下来就列举Typora中的一些常用的使用语法。
