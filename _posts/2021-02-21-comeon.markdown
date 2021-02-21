@@ -1,0 +1,8 @@
+---
+layout: post
+title: "加油"
+date:  2021-02-21 18:34:52 +0800
+tags: life
+---
+新年伊始，继续前行，始终相信美好的事情即将发生！
+![figure](https://raw.githubusercontent.com/memory118/memory118.github.io/master/_posts/ComeOn/together.jpg)
