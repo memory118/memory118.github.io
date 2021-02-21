@@ -5,4 +5,4 @@ date:  2021-02-18 23:34:52 +0800
 tags: life
 ---
 2020~2021，虽有不易，但年味十足
-![figure](https://raw.githubusercontent.com/memory118/memory118.github.io/master/_posts/TyporaUsage/together.jpg)
+![figure](https://raw.githubusercontent.com/memory118/memory118.github.io/master/_posts/festive/together.jpg)
